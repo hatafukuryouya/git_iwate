@@ -15,11 +15,12 @@ header{
     text-align: center;
     grid-template-columns: 1fr 1fr;
 }
-img{
-    width: 250px;
-    height: 250px;
+.writerpage_img{
+    width: 300px;
+    height: 300px;
     object-fit: cover;
-    margin: 10px;
+    margin: 5px;
+    background-color: black;
 }
 a {
 	color:inherit;
