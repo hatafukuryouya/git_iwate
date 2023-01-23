@@ -1,0 +1,42 @@
+.maintitle{
+    font-size: 2.5rem;
+}
+.subtitle{
+    font-size: 1.5rem;
+}
+header{
+    text-align: center;
+    width: 100%;
+    line-height: 100px;
+    background-color: green;
+    color: yellow;
+    font-size: 2.5rem;
+}
+.writer-top{
+    text-align: center;
+    width:100%;
+    line-height:40px;
+    border-bottom: 1px solid #333;
+    background-color: white;
+    font-size: 2.75rem;
+    display: block;
+}
+ul{
+    line-height: 100px;
+    padding-left: 0;
+    display: block;
+}
+li{
+    background-color: darkgray;
+    text-align: center;
+    font-size: 2rem;
+    width: 25%;
+    padding: 0px 5px;
+    float: left;
+    list-style: none;
+    display: block;
+}
+li+ li {
+    border-left: 1px solid #333;
+    display: block;
+}
