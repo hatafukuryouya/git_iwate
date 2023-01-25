@@ -24,6 +24,7 @@ header{
     background-color: white;
     font-size: 2.75rem;
     display: block;
+    padding: 5px 0px;
 }
 ul{
     line-height: 100px;
@@ -33,7 +34,7 @@ ul{
 li{
     background-color: darkgray;
     text-align: center;
-    font-size: 2rem;
+    font-size: 2.75rem;
     width: 25%;
     padding: 0px 5px;
     float: left;
@@ -43,7 +44,6 @@ li{
 li+ li {
     border-left: 1px solid #333;
     display: block;
-    font-size: 2.75rem;
 }
 .writer_contents{
     width: 100%;
